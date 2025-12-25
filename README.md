@@ -1,0 +1,2 @@
+# Predicting-House-Sold-Prices-for-Seattle-and-Greater-Area-
+Cleaned and engineered King County housing data by converting categorical variables to factors and assessing price distributions. Corrected right skew via outlier removal and log transformation. Used ggpairs for correlation to select high-impact features, reduced multicollinearity, and built a LASSO model with cross-validated λ for stable preds.
